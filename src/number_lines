@@ -1,3 +1,5 @@
 # script for numbering the lines of a file
+<<<<<<< HEAD
 # modify this script to prepend the next number to each line of the input file
 cat -n $1
+
